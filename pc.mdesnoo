@@ -1,0 +1,19 @@
+## Research Questions 
+
+Now that you are all set up, it's time to learn a little more about the tools of the trade. Edit this file and answer the following questions. You are going to need to start familiarizing yourself with the [GitHub docs](https://docs.github.com/en). Docs (short for documentation) are the instructions on how to use a languge or program. A large part of your job as a developer will be learning how to read and work with documentation. Please reference the GitHub docs when answering the questions below. If you cannot find what you are looking for in the docs, you can always start to practice your Google skills!
+
+1. What is Git?
+2. What is the difference between Git and GitHub?
+3. Why do we create a branch?
+4. What is the purpose of a Pull Request?
+5. What is the command you can use to switch between branches? For example you are working on the FIRSTNAME-LASTNAME branch and you want to switch back to main.
+6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?
+7. What is a merge conflict?
+8. How do you resolve a merge conflict?
+Git is a verison control system.
+Git keeps track of all changes made to the files on your computer and GitHub
+is to ensure your computer's environment set up.
+We create a branch to isolate specific Git commits from the rest of your
+main Git history.The purpose of a pull request is to improve code quality
+and faster resolution of conflicts. Git checkout command. Git fetch fetches the changes while git pull merges them after fetching. Merge conflict can
+enter a conflicted state at two separate points. Is to edit the conflicted file. Open the merge.txt file in your favorite editor.
